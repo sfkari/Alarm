@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Alarm" parent="Theme.Material3.Light.NoActionBar">
+
+
+        <item name="android:statusBarColor">@color/Darkviolet</item>
+
+        <item name="android:windowBackground">@drawable/background</item>
+
+        <item name="android:fontFamily">@font/montserratmedium</item>
+
+        <!-- Changer la couleur de la barre de navigation -->
+        <item name="android:navigationBarColor">@color/Darkviolet</item>
+        <!-- Ajouter si vous voulez un contenu clair sur la barre de statut (icônes) -->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.Alarm" parent="Base.Theme.Alarm" />
+
+</resources>

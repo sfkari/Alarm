@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Style personnalisé pour TimePicker -->
+<style name="CustomTimePickerStyle">
+    <!-- Changer la couleur du texte -->
+    <item name="android:textColor">#FFFFFF</item> <!-- Couleur du texte (les chiffres) -->
+
+    <!-- Changer la couleur des lignes (séparateurs dans le mode spinner) -->
+    <item name="android:colorAccent">#FFFFFF</item> <!-- Lignes de séparation -->
+</style>
+</resources>
